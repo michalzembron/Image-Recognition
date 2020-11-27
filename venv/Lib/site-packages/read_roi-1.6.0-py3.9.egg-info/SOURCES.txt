@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+read_roi/__init__.py
+read_roi/_read_roi.py
+read_roi/_version.py
+read_roi.egg-info/PKG-INFO
+read_roi.egg-info/SOURCES.txt
+read_roi.egg-info/dependency_links.txt
+read_roi.egg-info/top_level.txt
